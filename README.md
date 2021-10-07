@@ -26,5 +26,8 @@ AWS Services used :
     
 ![](AWS.gif)
 
+<img src= "image/arch.png" width= "800">
+
+
   
 
