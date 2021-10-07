@@ -22,6 +22,8 @@ AWS Services used :
 
     Aplication Load Balancer(ALB).  : To Distribute the traffic
     
+    Identity and access management(IAM) : asssigning IAM roles for AWS services
+    
 ![](AWS.gif)
 
   
